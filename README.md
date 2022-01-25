@@ -1,4 +1,6 @@
-https://user-images.githubusercontent.com/98211397/150943328-ca562779-2773-46fd-a54d-ba9233f0bc42.mp4
+
+<img src= "https://user-images.githubusercontent.com/98211397/150943328-ca562779-2773-46fd-a54d-ba9233f0bc42.mp4" width="1000" height="600">
+
 
 ### Hi, I'm Satyajeet 👋
 - 🔭 I’m currently working on Java Project
