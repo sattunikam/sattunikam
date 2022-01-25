@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/98211397/150943328-ca562779-2773-46fd-
 
 ## 🔗 Links
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  
+  <a href="https://www.instagram.com/sattu_nik27/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
   
 <!--
 **sattunikam/sattunikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
